@@ -12,4 +12,6 @@
 ![icons8-toolbox-100](https://github.com/user-attachments/assets/0038b87e-02de-4a42-b540-4e426c1c5968)
 ### My toolbox is limited for now,but let see what we have inside:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vscode,vue,react,nodejs,mongodb,azure)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vscode,vue,react,nodejs,mongodb,azure)
+
+
